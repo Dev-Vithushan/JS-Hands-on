@@ -6,5 +6,5 @@ console.log(a, b);
 let num = a;
 a = b;
 b = num ;
-
+// hyiu
 console.log( a, b);
