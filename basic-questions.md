@@ -2,9 +2,25 @@
 # Basic Questions for JavaScript - Week 01
 
 
-1. Write a program that swaps the values of two variables.
+1. Write a program that swaps the values of two variables. 
+
+
+
+
+
 2. Create a constant variable and try reassigning its value. What happens?
+
+``` const number=100;
+console.log(number);
+number=150;
+console.log(number);```
+
+we can not reasign the const variable.
+
+
 3. Write a program to convert a string to a number using JavaScript.
+
+
 4. Write a program to check if a number is even or odd.
 5. Create a program that checks if a number is positive, negative, or zero.
 6. Write a program that checks if a year is a leap year.
